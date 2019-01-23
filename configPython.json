@@ -65,7 +65,7 @@
         },
         {
             "name": "exposure_auto",
-            "value": 3
+            "value": 0
         },
         {
             "name": "raw_exposure_absolute",
@@ -73,11 +73,11 @@
         },
         {
             "name": "exposure_absolute",
-            "value": 1
+            "value": 0
         },
         {
             "name": "exposure_auto_priority",
-            "value": true
+            "value": false
         }
     ],
     "width": 180
